@@ -13,12 +13,7 @@ export class ProductListComponent {
   share() {
     window.alert('The product has been shared!');
   }
-
-  <product-alerts
-    [product]="product">
-  </product-alerts>
 }
-
 
 /*
 Copyright Google LLC. All Rights Reserved.
